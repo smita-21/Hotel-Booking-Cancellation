@@ -1,4 +1,4 @@
-                                                 Hotel Booking Cancellation Data Analysis And Insights
+                                 Hotel Booking Cancellation Data Analysis And Insights 
 About The Dataset: 
 
 This dataset contains 119390 observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 2015 and 2017, including booking that effectively arrived and booking that were canceled.
